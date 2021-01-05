@@ -1,0 +1,23 @@
+.darkBg {
+    background-color: var(--dark-background) !important;
+}
+.darkBox {
+    background-color: var(--dark-forg-1) !important;
+}
+
+.darkTxt {
+    color: var(--dark-prim-txt) !important;
+}
+
+
+
+
+.gsc-webResult.gsc-result {
+    margin: 10px !important;
+    background-color: var(--dark-forg-1) !important;
+    padding: 10px !important;
+    color: var(--dark-prim-txt) !important;
+}
+.gs-spelling {
+    color: var(--dark-prim-txt) !important;
+}
